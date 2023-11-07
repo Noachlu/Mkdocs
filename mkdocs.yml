@@ -1,0 +1,15 @@
+site_name: Noachlu
+# nav: # 导航结构
+#     - Home: index.md # [定制主页](https://github.com/squidfunk/mkdocs-material/issues/1996)
+#     - About: about.md
+theme:
+    name: material
+    favicon: img/favicon.png
+    logo: img/favicon.png
+    language: zh
+
+extra:
+    social: # 社交账号
+        - icon: fontawesome/brands/github
+          link: https://github.com/Noachlu
+
